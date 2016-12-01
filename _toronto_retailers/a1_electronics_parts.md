@@ -6,4 +6,4 @@ address: "196 North Queen Street, Toronto, ON"
 phone: "(416) 255-0343"
 ---
 
-I haven't been here but I'm told it's like Active Surplus. 
+I haven't been here but I'm told it's like Active Surplus. Mountains of surplus electronics plus a decent range of new parts, enclosures etc.
